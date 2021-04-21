@@ -4,5 +4,8 @@
 ![mhilgen Coin](/images/coins.jpeg)
 
 > 👀 I’m interested in learning anything new that has to do with Programming/Automation
-> 🌱 I’m currently learning the Software Development Foundation (CPSC2150@Clemson) & Applied Computer Vision (CPSC4820@Clemson)
-> 📫 How to reach me: email: mhilgen@g.clemson.edu
+> 🐯 I’m currently an Undergraduate Student at the [Clemson University] ()
+> 📫 How to reach me:
+>   my **[LinkedIn] ()**
+>   my **[Clemson Email] (mhilgen@g.clemson.edu)**
+>   my **[direct Email] (max.hilgenberg@gmx.net)**
