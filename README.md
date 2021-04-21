@@ -1,5 +1,5 @@
-# Welcome to Max Julius Hilgenberg's Website
-### 👋 Hi, I’m @mhilgen (Max J. Hilgenberg)
+# 👋 Welcome to my Website
+### My Name is Max Julius Hilgenberg (@mhilgen)
 
 ![mhilgen Coin](/images/coins.jpeg)
 
