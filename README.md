@@ -13,5 +13,5 @@
 ***<a href="docs/Lebenslauf.pdf" target="_blank">Lebenslauf</a>***<br><br>
 ### Programming Projects: 
 > Image & Video Manipulation *(CPSC 4820):
-> >[Link](https://mhilgen.github.io/CPSC4820/)*<br>
+> >[Link](https://mhilgen.github.io/CPSC4820/)<br>
 > still under construction ...
