@@ -9,5 +9,5 @@
 >>   ***my Clemson Email: <mhilgen@g.clemson.edu>***<br>
 >>   ***my direct Email: <max.hilgenberg@gmx.net>***<br><br>
 
-![Lebenslauf](/docs/Lebenslauf.pdf)
-//<a href="docs/Lebenslauf.pdf" target="_blank">Lebenslauf</a>
+
+<a href="docs/Lebenslauf.pdf" target="_blank">Lebenslauf</a>
