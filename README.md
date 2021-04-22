@@ -7,5 +7,5 @@
 > 📫 How to reach me:
 >>   ***[my LinkedIn](http://www.linkedin.com/in/mjhilgenberg/)***<br>
 >>   ***my Clemson Email: <mhilgen@g.clemson.edu>***<br>
->>   ***my direct Email: <max.hilgenberg@gmx.net>***<br>
+>>   ***my direct Email: <max.hilgenberg@gmx.net>***<br><br>
 <a href="/docs/Lebenslauf.pdf" target="_blank">Lebenslauf.</a>
