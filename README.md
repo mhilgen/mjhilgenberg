@@ -1,7 +1,5 @@
 # 👋 Welcome to my Website
-### My Name is Max Julius Hilgenberg (@mhilgen)
-
-![Picture](/images/mhilgen_frame.png)
+### My Name is Max Julius Hilgenberg (@mhilgen)<br>
 
 > 👀 I’m interested in learning anything new that has to do with Programming/Automation<br>
 > 🐯 I’m currently an Undergraduate Student at the *[Clemson University](http://www.clemson.edu)* <br><br>
