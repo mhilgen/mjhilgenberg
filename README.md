@@ -11,6 +11,7 @@
 
 
 ***<a href="docs/Lebenslauf.pdf" target="_blank">Lebenslauf</a>***<br><br>
+***<a href="docs/Resume.pdf" target="_blank">Resume</a>***<br><br>
 ***<a href="docs/NSLS_Induction.pdf" target="_blank">National Society of Leadership and Success Induction Certificate</a>***<br><br>
 ### Programming Projects: 
 > Image & Video Manipulation *(CPSC 4820):
