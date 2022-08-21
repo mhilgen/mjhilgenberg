@@ -16,3 +16,4 @@
 > Image & Video Manipulation *(CPSC 4820):
 > >[Link](https://mhilgen.github.io/CPSC4820/)<br>
 > still under construction ...
+
